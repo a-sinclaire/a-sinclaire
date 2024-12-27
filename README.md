@@ -131,7 +131,7 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)s
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 
 <!--## Browsers
