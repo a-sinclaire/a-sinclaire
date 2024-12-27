@@ -1,4 +1,4 @@
-## Hi! I'm Amelia 👋
+## Hi! I'm Amelia 👋 [![LinkedIn](https://img.shields.io/badge/amelia--sinclaire-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-sinclaire/) [![Gmail Badge](https://img.shields.io/badge/asinclaire.HRI@gmail.com-EA4335?logo=gmail&logoColor=fff)](mailto:asinclaire.HRI@gmail.com)
 
 <!--
 **a-sinclaire/a-sinclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn](https://img.shields.io/badge/amelia--sinclaire-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-sinclaire/)
-[![Gmail Badge](https://img.shields.io/badge/asinclaire.HRI@gmail.com-EA4335?logo=gmail&logoColor=fff)](mailto:asinclaire.HRI@gmail.com)
 
 I am a detail-oriented software developer with a diverse array of applicable skills. Extensive experience problem solving through scripting and automation. Adept at writing clean and efficient code. Seeking to contribute my talents to something meaningful. 
 
@@ -87,7 +85,7 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 ![Autodesk](https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=fff)
 [![ffmpeg](https://img.shields.io/badge/FFmpeg-%23171717?logo=ffmpeg&logoColor=5cb85c)](#)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-
+#### Editors
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -100,12 +98,12 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-
+#### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-
+#### Design
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
