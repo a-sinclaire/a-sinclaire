@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a detail-oriented software developer with a diverse array of applicable skills. Extensive experience problem solving through scripting and automation. Adept at writing clean and efficient code. Seeking to contribute my talents to something meaningful. 
 
-## Publications [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&)](https://orcid.org/0000-0002-9446-2323)
+## Publications [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&)](https://orcid.org/0000-0002-9446-2323) [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=X1AR8c8AAAAJ&hl=en&oi=ao)
 - A. Wilkinson, **A. Sinclaire**, and H. Yanco, “Spatial augmented reality user interface for assistive robot manipulation,” 2023.
 - A. Wilkinson, M. Gonzales, P. Hoey, et al., “Design guidelines for human–robot interaction with assistive robot manipulation systems,” Paladyn, vol. 12, no. 1, pp. 392–401, 2021.
 
