@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am a detail-oriented software developer with a diverse array of applicable skills. Extensive experience problem solving through scripting and automation. Adept at writing clean and efficient code. Seeking to contribute my talents to something meaningful. 
-
 [![LinkedIn](https://img.shields.io/badge/amelia--sinclaire-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-sinclaire/)
 [![Gmail Badge](https://img.shields.io/badge/asinclaire.HRI@gmail.com-EA4335?logo=gmail&logoColor=fff)](mailto:asinclaire.HRI@gmail.com)
+
+I am a detail-oriented software developer with a diverse array of applicable skills. Extensive experience problem solving through scripting and automation. Adept at writing clean and efficient code. Seeking to contribute my talents to something meaningful. 
 
 ## Publications
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&)](https://orcid.org/0000-0002-9446-2323)
@@ -90,8 +89,6 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![ffmpeg](https://img.shields.io/badge/FFmpeg-%23171717?logo=ffmpeg&logoColor=5cb85c)](#)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
 
-## Editors
-
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -105,25 +102,10 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 
-## Operating Systems
-
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-
-## Databases
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-
-## Design
 
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
@@ -131,7 +113,7 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
 
-## Other Skills
+## Skills
 
 [![HRI](https://img.shields.io/badge/Human_Robot_Interaction-252525)](#)
 [![Woodworking](https://img.shields.io/badge/Woodworking-252525)](#)
@@ -143,6 +125,16 @@ I am a detail-oriented software developer with a diverse array of applicable ski
 [![Facilitation](https://img.shields.io/badge/Facilitation-252525)](#)
 [![Public Speaking](https://img.shields.io/badge/Public_Speaking-252525)](#)
 [![HumanSubjects](https://img.shields.io/badge/Human_Subject_Experimentation-252525)](#)
+## Operating Systems
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)s
 
 
 <!--## Browsers
